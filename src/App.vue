@@ -1,8 +1,19 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
+import { LiquidGlass } from '@wxperia/liquid-glass-vue'
 </script>
 
 <template>
+  <header>
+    <LiquidGlass
+      padding="0px 46%"
+      :style="{ position: 'fixed', top: '50px', left: '50%', width: '90%'}"
+    >
+      <div class="p-6">
+        <h2>aaaaaa</h2>
+      </div>
+    </LiquidGlass>
+  </header>
   <div>
     <a href="https://vite.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
@@ -12,6 +23,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+
 </template>
 
 <style scoped>

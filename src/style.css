@@ -16,6 +16,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#profile-container {
+  margin-top: 100px;
+}
+
 #header-navbar {
   display: flex;
   margin-left: -550px;

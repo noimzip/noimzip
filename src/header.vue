@@ -3,7 +3,7 @@ import { LiquidGlass } from '@wxperia/liquid-glass-vue'
 </script>
 
 <template>
-  <header>
+  <header id="header-container">
     <LiquidGlass
       padding="0px 50%"
       :style="{ position: 'fixed', top: '50px', left: '50%', width: '90%' }"
@@ -28,7 +28,7 @@ import { LiquidGlass } from '@wxperia/liquid-glass-vue'
       :style="{ position: 'fixed', top: '50px', left: '340px' }"
     >
       <span style="font-size: 32px; font-weight: 600;">
-        <a href="../index.html">
+        <a href="#header-container">
           Home
         </a>
       </span>
@@ -38,7 +38,7 @@ import { LiquidGlass } from '@wxperia/liquid-glass-vue'
       :style="{ position: 'fixed', top: '50px', left: '485px' }"
     >
       <span style="font-size: 32px; font-weight: 600;">
-        <a href="../gallery.html">
+        <a href="#gallery-container">
           Gallery
         </a>
       </span>
@@ -48,7 +48,7 @@ import { LiquidGlass } from '@wxperia/liquid-glass-vue'
       :style="{ position: 'fixed', top: '50px', left: '635px' }"
     >
       <span style="font-size: 32px; font-weight: 600;">
-        <a href="../profile.html">
+        <a href="#profile-container">
           Profile
         </a>
       </span>

@@ -52,10 +52,12 @@
 img {
 	margin: 15px;
 }
+
 .logo {
   will-change: filter;
   transition: filter 250ms;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 0.5em #fff);
 }

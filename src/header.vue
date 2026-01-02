@@ -67,10 +67,27 @@ import { LiquidGlass } from '@wxperia/liquid-glass-vue'
 </template>
 
 <style scoped>
+#header-navbar {
+  display: flex;
+  margin-left: -550px;
+  width: 0px;
+}
+
+#header-navbar h2 {
+  margin-left: 20px;
+}
+
+#app-icons {
+  display: flex;
+  margin-top: 17.5px;
+  margin-left: 825px;
+}
+
 .logo {
   will-change: filter;
   transition: filter 250ms;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 0.5em #fff);
 }

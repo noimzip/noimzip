@@ -5,7 +5,7 @@ import { LiquidGlass } from '@wxperia/liquid-glass-vue'
 
 <template>
     <footer id="footer-container">
-        Copyright© 2026 Noimzip. All rights reserved. 
+        Copyright© 2026 Noimzip. All rights reserved.
         <LiquidGlass
             padding="15px"
             :style="{ position: 'fixed', top: '90%', left: '95%' }"

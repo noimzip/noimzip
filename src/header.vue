@@ -53,6 +53,16 @@ import { LiquidGlass } from '@wxperia/liquid-glass-vue'
         </a>
       </span>
     </LiquidGlass>
+    <LiquidGlass
+      padding="16px"
+      :style="{ position: 'fixed', top: '50px', left: '900px' }"
+    >
+      <span style="font-size: 32px; font-weight: 600;">
+        <a href="#header-container">
+          Switch to M3E
+        </a>
+      </span>
+    </LiquidGlass>
   </header>
 </template>
 

@@ -1,8 +1,6 @@
 <template>
 	<main id="profile-container">
-		<h1>👋 Hi there</h1>
-
-		<h2>About me</h2>
+		<h1>About me</h1>
 
 		<h3>
 			<p>A beginner and student programmer.</p>
@@ -10,14 +8,14 @@
 			<p>Recently, I've been working on Japanese translations for Android apps.</p>
 		</h3>
 
-		<h2>Skills</h2>
+		<h1>Skills</h1>
 		
 		<h3>
 			<p>Nothing here!</p>
 			<p>There is a possibility that it will increase this year.</p>
 		</h3>
 
-		<h2>Studying now...</h2>
+		<h1>Studying now...</h1>
 		<img class="logo" src="./assets/HTML5-logo.svg" width="75" height="75" alt="HTML5 logo" />
 		<img class="logo" src="./assets/CSS3-logo.svg" width="75" height="75" alt="CSS logo" />
 		<img class="logo" src="./assets/JavaScript-logo.svg" width="75" height="75" alt="JavaScript logo" />
@@ -25,8 +23,7 @@
 		<img class="logo" src="./assets/Java-logo.svg" width="75" height="75" alt="Java logo" />
 		<img class="logo" src="./assets/Kotlin-logo.svg" width="75" height="75" alt="Kotlin logo" />
 		
-
-		<h2>Links</h2>
+		<h1>Links</h1>
 		<a href="https://www.instagram.com/bnfnt8aqws64tsfurjhukkgtvmx6uh/" target="_blank">
 			<img class="logo" src="./assets/Instagram-logo.svg" width="75" height="75"  alt="Instagram logo" />
 		</a>

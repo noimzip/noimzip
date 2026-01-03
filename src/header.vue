@@ -28,7 +28,7 @@ import { LiquidGlass } from '@wxperia/liquid-glass-vue'
       :style="{ position: 'fixed', top: '50px', left: '340px' }"
     >
       <span style="font-size: 32px; font-weight: 600;">
-        <a href="#header-container">
+        <a href=".">
           Home
         </a>
       </span>

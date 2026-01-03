@@ -29,6 +29,37 @@ a {
   text-decoration: none;
 }
 
+.centering {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+#home-container {
+  position: absolute;
+  top: 0;
+}
+
+#gallery-container {
+  position: absolute;
+  top: 100%;
+}
+
+#profile-container {
+  position: absolute;
+  left: 0;
+  top: 200%;
+  width: 100%;
+}
+
+#footer-container {
+  position: absolute;
+  top: 300%;
+  height: fit-content;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     background-color: #ffffff;

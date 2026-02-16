@@ -6,6 +6,7 @@
 - Sometimes I also send pull requests.
 - Recently, I've been working on Japanese translations for Android apps.
 - I'm serious this year
+- Motivated but lacking skills—a stupid incompetent
 
 ### Skills
 

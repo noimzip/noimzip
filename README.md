@@ -14,3 +14,7 @@
 - Nothing here!
 - There is a possibility that it will increase this year.
 - I'll do my best starting tomorrow.
+
+### Achievements
+
+- It’s all thanks to the team members. I’m truly grateful!

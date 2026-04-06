@@ -15,6 +15,7 @@
 - Nothing here!
 - There is a possibility that it will increase this year.
 - I'll do my best starting tomorrow.
+- (I’ve been using AI for three months now, and I think I’m pretty good at it compared to others.)
 
 ### Achievements
 
